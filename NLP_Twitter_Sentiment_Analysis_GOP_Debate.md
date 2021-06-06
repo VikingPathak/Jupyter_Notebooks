@@ -1,6 +1,6 @@
 # Extracting Twitter Sentiment
 ---
-This is a basic notebook to help kickstart in `text sentiment` analysis. The notebook aims to clean data i.e. tweets using `regex` patterns perform sentiment polarity analysis using `Neural Network model`.
+This is a basic notebook to help kickstart in `text sentiment` analysis. The notebook aims to clean data i.e. tweets using `regex` patterns perform sentiment polarity analysis using `Neural Network model`. The `.ipynb` notebook format can be found at [this link](https://www.kaggle.com/vikingpathak/starter-text-cleaning-and-lstm-model)
 
 # Exploring Dataset
 ---
