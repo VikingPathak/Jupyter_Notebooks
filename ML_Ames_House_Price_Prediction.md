@@ -4,6 +4,8 @@ Find extensive Data Exploration in this NOtebook with each and every step in det
 
 The Dataset can be found on Kaggle at [House Prices - Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
+The notebook version of this file is available on Kaggle [at this link](https://www.kaggle.com/vikingpathak/rmse-0-09-extensive-data-exploration-a-z)
+
 # Data Understanding
 
 
@@ -1676,7 +1678,7 @@ output = pd.DataFrame({'Id': df_test['Id'], 'SalePrice': y_pred})
 
 <center><h1>PLEASE UPVOTE</h1></center>
 
-<center><h3>Don't forget to UPVOTE if you find this Notebook useful. It will keep me motivated.</h3></center>
+#### Don't forget to UPVOTE [this notebook on Kaggle](https://www.kaggle.com/vikingpathak/rmse-0-09-extensive-data-exploration-a-z) if you find this useful. It will keep me motivated.
 
 <center><h1>--- END ---</h1></center>
 
