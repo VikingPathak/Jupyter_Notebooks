@@ -180,6 +180,7 @@ data.head()
 
 
 ```python
+n_samples, n_features = data.shape
 data.shape
 ```
 
