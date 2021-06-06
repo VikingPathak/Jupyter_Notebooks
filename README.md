@@ -1,2 +1,2 @@
-# NLP_IPYNB_Notebooks
-The repository consists of various problem statements defined in the context of NLP. The ipynb files are uploaded as markdown files for better readability.
+# Natural Language Processing
+1. [GOP Debate :: Sentiment Polarity Prediction](https://github.com/VikingPathak/Jupyter_Notebooks/blob/main/NLP_Twitter_Sentiment_Analysis_GOP_Debate.md)
