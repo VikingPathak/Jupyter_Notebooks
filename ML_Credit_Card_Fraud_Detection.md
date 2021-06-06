@@ -1,11 +1,9 @@
 # Credit Card Fraud Detection
 ---
-
 **Problem Statement**: Explore all possibilities while sanctioning a Loan to any customer.
 
 # Data Description
 ---
-
 The data for this problem statement can be found on Kaggle [at this link](https://www.kaggle.com/mishra5001/credit-card)
 
 
@@ -2086,7 +2084,7 @@ weighted avg       0.89      0.89      0.88     67500
 ---
 
 #### Confusion Matrix
-![image.png](data/img/attachment:image.png)
+![image.png](data/img/image-cm.png)
 
 
 Follow my Data Science Page on instagram: [@gameofdata](https://www.instagram.com/gameofdata)
