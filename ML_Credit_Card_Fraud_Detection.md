@@ -2,6 +2,8 @@
 ---
 **Problem Statement**: Explore all possibilities while sanctioning a Loan to any customer.
 
+The notebook version of this file can be found on Kaggle [at this link](https://www.kaggle.com/vikingpathak/accuracy-90-xgboost-and-sampling)
+
 # Data Description
 ---
 The data for this problem statement can be found on Kaggle [at this link](https://www.kaggle.com/mishra5001/credit-card)
