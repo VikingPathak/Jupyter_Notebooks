@@ -1,5 +1,5 @@
 # Machine Learning
-1. [AMES Dataset :: House Price Prediction - Kaggle Competition](https://github.com/VikingPathak/Jupyter_Notebooks/blob/main/ML_Ames_House_Price_Prediction.md)
+1. [AMES Dataset :: House Price Prediction - Kaggle Competition](ML_Ames_House_Price_Prediction.md)
 2. [Credit Card Fraud Detection](https://github.com/VikingPathak/Jupyter_Notebooks/blob/main/ML_Credit_Card_Fraud_Detection.md)
 
 # Natural Language Processing
