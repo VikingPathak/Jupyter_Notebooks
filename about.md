@@ -1,6 +1,6 @@
 ---
 title: ABOUT PAGE
-theme: minima
+layout: default
 filename: about.md
 --- 
 
