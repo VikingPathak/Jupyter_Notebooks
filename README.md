@@ -10,5 +10,3 @@
 Follow my Data Science Page on instagram: [@gameofdata](https://www.instagram.com/gameofdata)
 
 Connect with me on LinkedIN: [Amit Pathak](https://www.linkedin.com/in/viking-pathak)
-
-[About Link](about.md)
